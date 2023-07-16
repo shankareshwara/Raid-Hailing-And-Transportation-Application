@@ -1,0 +1,8 @@
+.customer-bottom{
+    background-image: url("/public/images/customer.jpg");
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    /* margin-top: 20%; */
+    background-size: cover;
+    background-attachment: fixed;
+}

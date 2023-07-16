@@ -1,0 +1,8 @@
+.main{
+    display: flex;
+    margin: 100px;
+}
+
+.about{
+    margin-right: 40px;
+}
