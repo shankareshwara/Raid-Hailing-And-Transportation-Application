@@ -1,0 +1,9 @@
+.services{
+    display: grid;
+    grid-template-columns: 2.5fr 2.5fr 2.5fr;
+    grid-gap: 30px;
+}
+
+.serv{
+    width: 100%;
+}

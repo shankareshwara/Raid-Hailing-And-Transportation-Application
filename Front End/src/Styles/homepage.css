@@ -1,0 +1,44 @@
+.pg1{
+    width: 100%;
+    display: flex;
+    flex-direction: row-reverse;
+  }
+  
+  .home{
+    min-height: 90vh;
+    background-color: white;
+  
+   
+  }
+  #head{
+    text-align: center;
+  }
+  span{
+   font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Titillium Web', sans-serif;
+  }
+  
+  
+  #rightpic1{
+    width: 50%;
+    text-align: center;  
+    margin-top: 9%;
+  }
+  
+  #leftpic1{
+    width: 50%;
+    margin: 30px;
+    text-align: center;
+    margin-top: 7%;
+    font-size: large;
+    padding: 30px;
+    
+  }
+
+    
+    @media screen and (min-width: 860px) {
+      .pg1 .pic1 {
+        display: initial;
+      }
+    }

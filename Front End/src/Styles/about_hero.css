@@ -1,0 +1,16 @@
+.about-hero {
+    min-height: 80vh;
+
+    background-image:linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1)), url('/public/images/about1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.8;
+}
+
+.about-hero-container {
+    
+    margin-bottom: 60px ;       
+    font-size: 50px;
+    color: #e7dfdf;
+    color: black;
+}

@@ -1,0 +1,36 @@
+.App {
+    text-align: center;
+    margin: 50px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .a {
+    margin-bottom: 20px;
+  }
+  
+  .rating {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .star-icon {
+    font-size: 30px;
+    margin: 0 2px;
+    cursor: pointer;
+  }
+  
+  textarea.feedback {
+    width: 40%;
+    margin-top: 20px;
+    padding: 5px;
+  }
+  
+ .c {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  

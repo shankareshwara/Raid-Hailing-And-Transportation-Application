@@ -1,0 +1,14 @@
+.home-div{
+    display: flex;
+}
+.lft{
+ width: 70%;
+ height: auto;
+ background-color: aquamarine;
+}
+.rigt{
+    width: 30%;
+    height: auto;
+    background-color: rgb(253, 37, 112);
+
+}

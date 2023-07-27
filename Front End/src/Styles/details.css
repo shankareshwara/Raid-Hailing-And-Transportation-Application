@@ -1,0 +1,27 @@
+.aa {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-top:  18%;
+  }
+  
+  /* Styles for the waiting or success message container */
+  .bb {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  /* Styles for the message when waiting for driver response */
+  .cc {
+    font-size: 24px;
+    color: #007bff;
+  }
+  
+  /* Styles for the Driver details */
+  .bb h1 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }

@@ -1,0 +1,98 @@
+/* Styles for the main container */
+.check {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+    
+  }
+  
+  /* Styles for the form-check elements */
+  .form-check {
+    margin-bottom: 10px;
+  }
+  
+  /* Styles for the driver location input */
+  .dj {
+
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  /* Styles for the Submit button */
+  .kj {
+    display: block;
+
+    padding: 10px;
+    margin-top: 10px;
+    background-color: #ff1f4f;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  /* Styles for the ride details container */
+  .m {
+    max-width: 500px;
+    margin: 20px auto;
+    padding: 10px;
+    background-color: #f0f0f0;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding-left: 88px;
+  }
+  
+  /* Styles for the accept and decline buttons */
+  .r {
+    display: inline-block;
+    padding: 8px 16px;
+    margin-right: 10px;
+    background-color: #ff1f4f;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  .dj {
+      margin-left:70px
+      
+    }
+    .kj {
+      margin-left:121px
+
+  }
+  .form-check-input{
+    margin-left:140px
+  }
+  
+  /* Styles for the input and start button in the end ride section */
+  .t,
+  .m .r {
+    margin-top: 10px;
+  }
+  
+  /* Styles for the end ride button */
+  .m .r:last-child {
+    background-color: #ff1f4f;
+  }
+  
+  /* Additional styles */
+  h4 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  h5 {
+    font-size: 18px;
+    margin-bottom: 5px;
+  }
+  
+  .q {
+    margin: 5px 0;
+  }

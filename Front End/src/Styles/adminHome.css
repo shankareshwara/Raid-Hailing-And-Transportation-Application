@@ -1,0 +1,56 @@
+/* Styles for the main container */
+.class {
+    display: flex;
+    flex-wrap: wrap;
+    /* justify-content: center; */
+  }
+  
+  /* Styles for the container wrapping every two cards */
+  .card-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 30px;
+  }
+  
+  /* Styles for individual ride cards */
+  .hello {
+    width: calc(50% - 20px); /* Adjust the width based on the desired space between cards */
+    margin: 10px;
+    min-width: 200px; /* Minimum width for the cards */
+  }
+  
+  /* Styles for the card content */
+  .CardContent {
+    padding: 16px;
+  }
+  
+  /* Styles for the ride details */
+  .CardContent > div {
+    margin-bottom: 10px;
+  }
+  
+  /* Styles for the header of ride details */
+  .CardContent > .MuiTypography-root {
+    font-size: 14px;
+    color: #777;
+  }
+  
+  /* Styles for the passenger email */
+  .CardContent > .MuiTypography-root:nth-child(2) {
+    font-size: 18px;
+    color: #333;
+  }
+  
+  /* Styles for other ride details */
+  .CardContent > .MuiTypography-root:not(:first-child):not(:last-child) {
+    font-size: 16px;
+    color: #444;
+  }
+  
+  /* Styles for the raid fair */
+  .CardContent > .MuiTypography-root:last-child {
+    font-size: 18px;
+    color: #007bff;
+  }
+  

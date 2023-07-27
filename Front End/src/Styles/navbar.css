@@ -1,0 +1,10 @@
+.css-r6ewbb-MuiToolbar-root{
+  display:flex !important;
+
+  justify-content: space-between !important;
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}

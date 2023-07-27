@@ -1,0 +1,38 @@
+#sample{
+    width:100px;
+    height:100px;
+    background:#000000;
+  }
+  #sample:focus {
+    width: 200px;
+ }
+
+ label {
+    display: inline-block;
+  }
+  
+  label input {
+    display: none;
+  }
+  
+  input:checked ~ #sample {
+    width: 150px;
+    height: 150px;
+  }
+  
+  #sample {
+    width: 100px;
+    height: 100px;
+    background: #000000;
+  }
+
+  #sample{
+    background:#000;
+    height:100px;
+    transition:height 0s 10000s;
+}
+#sample:focus{
+    height:200px;
+    outline:0;
+    transition:height 0s;
+}

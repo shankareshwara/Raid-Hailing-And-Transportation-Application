@@ -1,0 +1,30 @@
+.profile-root{
+    min-height: 100vh;
+    background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7));
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;    
+}
+
+.card{
+    /* width: 50%; */
+   margin:30px;
+}
+
+.profile-value{
+    text-align: right;
+}
+
+#profile-head{
+    padding: 15px;
+    margin-bottom: 5px;
+}
+
+.profile-field, .profile-value{
+    font-family: 'Anuphan', sans-serif;
+}
+
+.css-keog8c-MuiPaper-root{
+    height: 100% !important;
+    /* color: rgb(234, 73, 73); */
+}

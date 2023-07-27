@@ -1,0 +1,42 @@
+.first{
+    display:flex;
+}
+.second{
+    display:flex;
+    background-color: aquamarine;
+
+}
+.inn1{
+    display:flex;
+
+}
+.inn2{
+    display:flex;
+
+}
+.first , .pass , .inn1, .inn2{
+    margin-left: 240px;
+}
+.right, .driv, .a2 , .a4{
+    margin-right: 240px;
+    
+}
+.a2 , .a4, .driv{
+    margin-left:40px
+}
+
+.firsth1{
+    margin-top: 149px;
+}
+.r{
+    margin-left: 28px;
+}
+.third {
+    margin-top: 114px;
+}
+.cover{
+    text-align: center;
+}
+.third{
+    background-color: rgb(246, 255, 0);
+}
